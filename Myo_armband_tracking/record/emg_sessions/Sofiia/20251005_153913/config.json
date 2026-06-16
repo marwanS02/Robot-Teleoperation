@@ -1,0 +1,17 @@
+{
+  "participant": "Sofiia",
+  "port": "COM5",
+  "baud": 115200,
+  "window_sec": 5.0,
+  "fs_agg": 200.0,
+  "ready_lead_sec": 3.0,
+  "rest_range_sec": [
+    2.0,
+    4.0
+  ],
+  "move_range_sec": [
+    2.0,
+    5.0
+  ],
+  "target_reps_per_class": 10
+}
